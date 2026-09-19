@@ -17,7 +17,7 @@
 **Scanners Box** es un **tesoro curado de más de 9.000 ⭐ joyas de ciberseguridad de código abierto** — con un enfoque especial en **agentes de seguridad automatizados por IA** y herramientas de **Equipo Rojo vs Equipo Azul**. Todas las herramientas cuentan con **código fuente disponible**, abarcando más de 10 categorías: enumeración de subdominios, auditoría IoT, análisis móvil, escaneo de contratos inteligentes y seguridad en la nube.
 
 > [!TIP]
-> **📅 ¿No sabes por cuál de las más de 300 herramientas empezar? → [Scanners-Box Daily AI Tool Picks](https://we5ter.github.io/ai-tools/)**
+> **📅 ¿Cansado de buscar por todas partes herramientas de agentes IA? → [Scanners-Box Daily AI Tool Picks](https://we5ter.github.io/ai-tools/)**
 >
 > Una herramienta de seguridad con IA al día, con un análisis a fondo: qué hace realmente, dónde están sus límites, para quién es y si merece tu tiempo.
 
